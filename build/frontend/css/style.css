@@ -967,6 +967,16 @@ SECTION MARGIN
 .navbar .navbar-brand {
     height: auto;
     display: block;
+    padding: 0px;
+    transition: all .2s ease-in-out;
+}
+
+.navbar .navbar-brand img {
+    height: 80px;
+}
+
+.navbar .navbar-brand .page-scroll img {
+    height: 60px;
 }
 
 /* Menu links */
