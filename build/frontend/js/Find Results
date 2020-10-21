@@ -1,0 +1,1110 @@
+Searching 55 files for "1d0d44"
+
+/Users/felixtang/Work/project/PocketBank/css/style.css:
+  537  
+  538  .box-minimal:hover {
+  539: 	color: #1d0d44;
+  540  	box-shadow: 0 0 24px 0 rgba(130, 133, 144, 0.3);
+  541  }
+  ...
+  551  	text-transform: uppercase;
+  552  	color: #ffffff;
+  553: 	background: #1d0d44;
+  554  }
+  555  
+  ...
+ 1833  .button-primary:focus, .button-primary:hover, .button-primary:active {
+ 1834  	color: #ffffff;
+ 1835: 	background-color: #1d0d44;
+ 1836  }
+ 1837  
+ ....
+ 1884  .button-primary-dark {
+ 1885  	color: #ffffff;
+ 1886: 	background-color: #1d0d44;
+ 1887  }
+ 1888  
+ ....
+ 2627  	bottom: 0;
+ 2628  	font-size: 28px;
+ 2629: 	color: #1d0d44;
+ 2630  	transition: .3s;
+ 2631  	background: none;
+ ....
+ 2743  	padding: 0 14px;
+ 2744  	color: #ffffff;
+ 2745: 	background: #1d0d44;
+ 2746  }
+ 2747  
+ ....
+ 2755  	padding: 0 9px;
+ 2756  	font-weight: 100;
+ 2757: 	color: #1d0d44;
+ 2758  	background: #f8be16;
+ 2759  	border-radius: 2px;
+ ....
+ 2789  
+ 2790  .post-title > a:hover {
+ 2791: 	color: #1d0d44;
+ 2792  }
+ 2793  
+ ....
+ 2863  
+ 2864  .box-comment .comment-link:hover, .box-comment .comment-link:focus, .box-comment .comment-link:active {
+ 2865: 	color: #1d0d44;
+ 2866  }
+ 2867  
+ ....
+ 3025  
+ 3026  .post-classic-2 .post-author a:hover, .post-classic-2 .post-author a:focus {
+ 3027: 	color: #1d0d44;
+ 3028  }
+ 3029  
+ ....
+ 3329  	padding: 4px 16px;
+ 3330  	color: #ffffff;
+ 3331: 	background: #1d0d44;
+ 3332  	margin-left: 8px;
+ 3333  }
+ ....
+ 4121  	padding-bottom: 31px;
+ 4122  	position: relative;
+ 4123: 	background: #1d0d44;
+ 4124  }
+ 4125  
+ ....
+ 4381  .footer-1 {
+ 4382  	padding: 40px 0;
+ 4383: 	background: #1d0d44;
+ 4384  	color: #aeb1be;
+ 4385  }
+ ....
+ 4455  .footer-2 {
+ 4456  	padding: 40px 0;
+ 4457: 	background: #1d0d44;
+ 4458  	color: #aeb1be;
+ 4459  }
+ ....
+ 4532  
+ 4533  .footer-3 {
+ 4534: 	background: #1d0d44;
+ 4535  	color: #aeb1be;
+ 4536  }
+ ....
+ 6255  
+ 6256  .section-negative {
+ 6257: 	background: #1d0d44;
+ 6258  }
+ 6259  
+ ....
+ 6459  
+ 6460  .bg-primary-dark {
+ 6461: 	background-color: #1d0d44;
+ 6462  }
+ 6463  
+ ....
+ 7235  	line-height: 44px;
+ 7236  	color: #ffffff;
+ 7237: 	background: #1d0d44;
+ 7238  	overflow: hidden;
+ 7239  	text-align: center;
+ ....
+ 7760  .rd-navbar-static .rd-navbar-dropdown li > a:hover,
+ 7761  .rd-navbar-static .rd-megamenu-list li > a:hover {
+ 7762: 	color: #1d0d44;
+ 7763  }
+ 7764  
+ ....
+ 8378  	color: #ffffff;
+ 8379  	box-shadow: 0 0 2px 3px rgba(0, 0, 0, 0.05);
+ 8380: 	background: #1d0d44;
+ 8381  }
+ 8382  
+ 8383  .rd-navbar-fixed .rd-navbar-nav-wrap {
+ 8384  	color: #ffffff;
+ 8385: 	background: #1d0d44;
+ 8386  	box-shadow: 0 0 2px 3px rgba(0, 0, 0, 0.05);
+ 8387  }
+ ....
+ 8454  
+ 8455  .rd-navbar-fixed .rd-navbar-collapse {
+ 8456: 	background-color: #1d0d44;
+ 8457  	box-shadow: 0 0 2px 3px rgba(0, 0, 0, 0.05);
+ 8458  }
+ ....
+ 8709  .rd-navbar-sidebar .rd-navbar-dropdown li > a:hover,
+ 8710  .rd-navbar-sidebar .rd-megamenu-list li > a:hover {
+ 8711: 	color: #1d0d44;
+ 8712  }
+ 8713  
+ ....
+ 8877  */
+ 8878  .rd-navbar-classic.rd-navbar-static {
+ 8879: 	background: #1d0d44;
+ 8880  	border-bottom: 1px solid transparent;
+ 8881  }
+ ....
+ 9325  
+ 9326  .rd-navbar-creative.rd-navbar-static.rd-navbar--is-stuck, .rd-navbar-creative.rd-navbar-static.rd-navbar--is-clone {
+ 9327: 	background: #1d0d44;
+ 9328  	box-shadow: 0 0 2px 3px rgba(0, 0, 0, 0.2);
+ 9329  }
+ ....
+ 10209  .rd-search-results-live .search-submit:hover {
+ 10210  	color: #ffffff;
+ 10211: 	background: #1d0d44;
+ 10212  }
+ 10213  
+ .....
+ 10572  	}
+ 10573  	.isotope-filters-list > li > a:hover, .isotope-filters-list > li > a:focus, .isotope-filters-list > li > a.active {
+ 10574: 		background: #1d0d44;
+ 10575  	}
+ 10576  	.isotope-filters-list > li + li {
+
+27 matches in 1 file
+
+
+Searching 55 files for "7b59d0"
+
+/Users/felixtang/Work/project/PocketBank/index.html:
+  427                <div class="row row-30 row-xxl-40 row-fix">
+  428                  <div class="col-6">
+  429:                   <div class="progress-bar-circle" data-value="0.25" data-gradient="#f8be16" data-empty-fill="#7b59d0" data-size="100" data-thickness="2"><span></span></div>
+  430                    <p class="progress-bar-circle-title">Economy</p>
+  431                  </div>
+  432                  <div class="col-6">
+  433:                   <div class="progress-bar-circle" data-value="0.50" data-gradient="#f8be16" data-empty-fill="#7b59d0" data-size="100" data-thickness="2"><span></span></div>
+  434                    <p class="progress-bar-circle-title">Cashback</p>
+  435                  </div>
+  436                  <div class="col-6">
+  437:                   <div class="progress-bar-circle" data-value="0.75" data-gradient="#f8be16" data-empty-fill="#7b59d0" data-size="100" data-thickness="2"><span></span></div>
+  438                    <p class="progress-bar-circle-title">Stability</p>
+  439                  </div>
+  440                  <div class="col-6">
+  441:                   <div class="progress-bar-circle" data-value="1" data-gradient="#f8be16" data-empty-fill="#7b59d0" data-size="100" data-thickness="2"><span></span></div>
+  442                    <p class="progress-bar-circle-title">Guarantee</p>
+  443                  </div>
+
+/Users/felixtang/Work/project/PocketBank/css/bootstrap.css:
+    8  	--blue: #007bff;
+    9  	--indigo: #6610f2;
+   10: 	--purple: #7b59d0;
+   11  	--pink: #e83e8c;
+   12  	--red: #dc3545;
+   ..
+  212  
+  213  a {
+  214: 	color: #7b59d0;
+  215  	text-decoration: none;
+  216  	background-color: transparent;
+  ...
+  499  .mark {
+  500  	padding: 5px 10px;
+  501: 	background-color: #7b59d0;
+  502  }
+  503  
+  ...
+ 2354  .btn-link {
+ 2355  	font-weight: 400;
+ 2356: 	color: #7b59d0;
+ 2357  	background-color: transparent;
+ 2358  }
+ ....
+ 2528  	color: #ffffff;
+ 2529  	text-decoration: none;
+ 2530: 	background-color: #7b59d0;
+ 2531  }
+ 2532  
+ ....
+ 2887  .custom-control-input:checked ~ .custom-control-indicator {
+ 2888  	color: #ffffff;
+ 2889: 	background-color: #7b59d0;
+ 2890  }
+ 2891  
+ ....
+ 2934  
+ 2935  .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-indicator {
+ 2936: 	background-color: #7b59d0;
+ 2937  	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 4'%3E%3Cpath stroke='%23ffffff' d='M0 2h4'/%3E%3C/svg%3E");
+ 2938  }
+ ....
+ 3026  
+ 3027  .custom-file-input:focus ~ .custom-file-control {
+ 3028: 	box-shadow: 0 0 0 0.075rem #ffffff, 0 0 0 0.2rem #7b59d0;
+ 3029  }
+ 3030  
+ ....
+ 3140  .nav-pills .show > .nav-link {
+ 3141  	color: #ffffff;
+ 3142: 	background-color: #7b59d0;
+ 3143  }
+ 3144  
+ ....
+ 3948  	z-index: 2;
+ 3949  	color: #ffffff;
+ 3950: 	background-color: #7b59d0;
+ 3951: 	border-color: #7b59d0;
+ 3952  }
+ 3953  
+ ....
+ 3973  	color: #ffffff;
+ 3974  	text-decoration: none;
+ 3975: 	background-color: #7b59d0;
+ 3976: 	border-color: #7b59d0;
+ 3977  }
+ 3978  
+ ....
+ 4115  	justify-content: center;
+ 4116  	color: #ffffff;
+ 4117: 	background-color: #7b59d0;
+ 4118  }
+ 4119  
+ ....
+ 4198  	z-index: 2;
+ 4199  	color: #ffffff;
+ 4200: 	background-color: #7b59d0;
+ 4201: 	border-color: #7b59d0;
+ 4202  }
+ 4203  
+ ....
+ 4438  	content: "";
+ 4439  	border-width: 6px 6px 0;
+ 4440: 	border-top-color: #7b59d0;
+ 4441  }
+ 4442  
+ ....
+ 4453  	content: "";
+ 4454  	border-width: 6px 6px 6px 0;
+ 4455: 	border-right-color: #7b59d0;
+ 4456  }
+ 4457  
+ ....
+ 4468  	content: "";
+ 4469  	border-width: 0 6px 6px;
+ 4470: 	border-bottom-color: #7b59d0;
+ 4471  }
+ 4472  
+ ....
+ 4484  	content: "";
+ 4485  	border-width: 6px 0 6px 6px;
+ 4486: 	border-left-color: #7b59d0;
+ 4487  }
+ 4488  
+ ....
+ 4492  	color: #ffffff;
+ 4493  	text-align: center;
+ 4494: 	background-color: #7b59d0;
+ 4495  	border-radius: 0;
+ 4496  }
+
+/Users/felixtang/Work/project/PocketBank/css/style.css:
+  115  
+  116  h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, [class^='heading-'] a:hover {
+  117: 	color: #7b59d0;
+  118  }
+  119  
+  ...
+  272  	padding: 3px 5px;
+  273  	color: #ffffff;
+  274: 	background: #7b59d0;
+  275  }
+  276  
+  ...
+  297  	padding-left: .25em;
+  298  	padding-right: .25em;
+  299: 	color: #7b59d0;
+  300  }
+  301  
+  ...
+  341  
+  342  a, a:focus, a:active {
+  343: 	color: #7b59d0;
+  344  }
+  345  
+  ...
+  357  
+  358  a.hover-text:hover, a.hover-text:focus {
+  359: 	color: #7b59d0;
+  360  }
+  361  
+  ...
+  365  
+  366  a.hover-light-text:hover, a.hover-light-text:focus {
+  367: 	color: #7b59d0;
+  368  }
+  369  
+  ...
+  421  
+  422  .block-center:hover .block-center-header {
+  423: 	background-color: #7b59d0;
+  424  }
+  425  
+  ...
+  436  	}
+  437  	.block-center-header {
+  438: 		background-color: #7b59d0;
+  439  	}
+  440  }
+  ...
+  532  	line-height: 1.3;
+  533  	background: #ffffff;
+  534: 	color: #7b59d0;
+  535  	border-radius: 6px;
+  536  }
+  ...
+  613  	width: 80px;
+  614  	height: 2px;
+  615: 	background: #7b59d0;
+  616  }
+  617  
+  ...
+  666  .contact-box .icon {
+  667  	font-size: 24px;
+  668: 	color: #7b59d0;
+  669  }
+  670  
+  ...
+  718  
+  719  .price-box-1-primary {
+  720: 	background: linear-gradient(to bottom, #7b59d0, #6547af);
+  721  }
+  722  
+  ...
+ 1464  	font-size: 40px;
+ 1465  	line-height: 1;
+ 1466: 	color: #7b59d0;
+ 1467  	vertical-align: middle;
+ 1468  }
+ ....
+ 1584  .icon-gradient {
+ 1585  	background: linear-gradient(90deg, transparent, transparent);
+ 1586: 	background: -webkit-linear-gradient(90deg, #f8be16, #7b59d0);
+ 1587  	-webkit-background-clip: text;
+ 1588  	-webkit-text-fill-color: transparent;
+ 1589: 	color: #7b59d0;
+ 1590  }
+ 1591  
+ ....
+ 1668  .table-custom.table-custom-primary thead th {
+ 1669  	color: #ffffff;
+ 1670: 	background: #7b59d0;
+ 1671  	border: 0;
+ 1672  }
+ ....
+ 1751  .divider-2:before {
+ 1752  	width: 48px;
+ 1753: 	border-top: 2px solid #7b59d0;
+ 1754  }
+ 1755  
+ ....
+ 1798  .button-default:focus, .button-default:hover, .button-default:active {
+ 1799  	color: #ffffff;
+ 1800: 	background-color: #7b59d0;
+ 1801: 	border-color: #7b59d0;
+ 1802  }
+ 1803  
+ ....
+ 1827  	bottom: 0;
+ 1828  	z-index: -1;
+ 1829: 	background: linear-gradient(to bottom, transparent, #7b59d0);
+ 1830  	transition: inherit;
+ 1831  }
+ ....
+ 1857  	bottom: 0;
+ 1858  	z-index: -1;
+ 1859: 	background: linear-gradient(to bottom, transparent, #7b59d0);
+ 1860  	transition: inherit;
+ 1861  }
+ ....
+ 1868  .footer-1 .button-primary:hover,
+ 1869  .footer-1 .button-primary:active {
+ 1870: 	color: #7b59d0;
+ 1871  	background-color: #ffffff;
+ 1872  }
+ ....
+ 1901  .button-primary-dark:focus, .button-primary-dark:hover, .button-primary-dark:active {
+ 1902  	color: #ffffff;
+ 1903: 	background-color: #7b59d0;
+ 1904  }
+ 1905  
+ ....
+ 1916  .button-default-outline:focus, .button-default-outline:hover, .button-default-outline:active {
+ 1917  	color: #ffffff;
+ 1918: 	background-color: #7b59d0;
+ 1919: 	border-color: #7b59d0;
+ 1920  }
+ 1921  
+ ....
+ 1927  .button-ghost:hover {
+ 1928  	color: #ffffff;
+ 1929: 	background: #7b59d0;
+ 1930  }
+ 1931  
+ ....
+ 2090  .btn-primary, .btn-primary:active, .btn-primary:focus {
+ 2091  	color: #ffffff;
+ 2092: 	background: #7b59d0;
+ 2093: 	border-color: #7b59d0;
+ 2094  }
+ 2095  
+ ....
+ 2196  
+ 2197  .form-wrap.has-focus .form-input {
+ 2198: 	border-color: #7b59d0;
+ 2199  }
+ 2200  
+ ....
+ 2488  
+ 2489  .toggle-custom:checked ~ .checkbox-custom-dummy::after {
+ 2490: 	background: #7b59d0;
+ 2491  	-webkit-transform: translate(20px, -50%);
+ 2492  	transform: translate(20px, -50%);
+ ....
+ 2645  
+ 2646  .rd-form-inline-2 .form-icon-button:hover {
+ 2647: 	color: #7b59d0;
+ 2648  }
+ 2649  
+ ....
+ 2748  .tag:hover, .tag:focus, .tag:active {
+ 2749  	color: #ffffff;
+ 2750: 	background: #7b59d0;
+ 2751  }
+ 2752  
+ ....
+ 2762  .tag-1:hover, .tag-1:focus, .tag-1:active {
+ 2763  	color: #ffffff;
+ 2764: 	background: #7b59d0;
+ 2765  }
+ 2766  
+ ....
+ 2785  /* Post title */
+ 2786  .post-title > a {
+ 2787: 	color: #7b59d0;
+ 2788  }
+ 2789  
+ ....
+ 3211  		width: 9px;
+ 3212  		height: 9px;
+ 3213: 		background: #7b59d0;
+ 3214  		border-radius: 50%;
+ 3215  	}
+ 3216  	.post-modern-wrap .post-modern-item:hover:before {
+ 3217: 		border-top: 1px solid #7b59d0;
+ 3218  	}
+ 3219  	.post-modern-wrap .post-modern-left {
+ ....
+ 3438  
+ 3439  .post-single-wrap .post-author .author-name {
+ 3440: 	color: #7b59d0;
+ 3441  }
+ 3442  
+ 3443  .post-single-wrap .post-tag {
+ 3444: 	color: #7b59d0;
+ 3445  }
+ 3446  
+ ....
+ 3584  blockquote cite {
+ 3585  	font-style: normal;
+ 3586: 	color: #7b59d0;
+ 3587  }
+ 3588  
+ ....
+ 3605  	font-size: 44px;
+ 3606  	line-height: 1;
+ 3607: 	color: #7b59d0;
+ 3608  }
+ 3609  
+ ....
+ 4240  	bottom: 0;
+ 4241  	z-index: -1;
+ 4242: 	background: linear-gradient(to bottom, transparent, #7b59d0);
+ 4243  	transition: inherit;
+ 4244  	border-radius: inherit;
+ ....
+ 4725  	line-height: 1;
+ 4726  	background: linear-gradient(90deg, transparent, transparent);
+ 4727: 	background: -webkit-linear-gradient(90deg, #7b59d0, #f8be16);
+ 4728  	-webkit-background-clip: text;
+ 4729  	-webkit-text-fill-color: transparent;
+ ....
+ 4817  	font-size: 70px;
+ 4818  	line-height: 1.15;
+ 4819: 	color: #7b59d0;
+ 4820  }
+ 4821  
+ ....
+ 4876  	font-size: 90px;
+ 4877  	line-height: 1.1;
+ 4878: 	color: #7b59d0;
+ 4879  }
+ 4880  
+ ....
+ 4920  	bottom: 0;
+ 4921  	z-index: -1;
+ 4922: 	background: #7b59d0;
+ 4923  }
+ 4924  
+ ....
+ 4988  	font-size: 60px;
+ 4989  	line-height: 1.1;
+ 4990: 	color: #7b59d0;
+ 4991  }
+ 4992  
+ ....
+ 5028  	font-size: 60px;
+ 5029  	line-height: 100px;
+ 5030: 	color: #7b59d0;
+ 5031  	background: #ffffff;
+ 5032  	border: 2px solid #d7d7d7;
+ ....
+ 5045  	line-height: 30px;
+ 5046  	color: #ffffff;
+ 5047: 	background: #7b59d0;
+ 5048  	border-radius: 50%;
+ 5049  }
+ ....
+ 5155  	bottom: 0;
+ 5156  	z-index: 0;
+ 5157: 	background: linear-gradient(to bottom, transparent, #7b59d0);
+ 5158  	transition: inherit;
+ 5159  	border-radius: inherit;
+ ....
+ 5236  	text-align: center;
+ 5237  	color: #ffffff;
+ 5238: 	background: #7b59d0;
+ 5239  	border-top-left-radius: 6px;
+ 5240  	transition: inherit;
+ ....
+ 5646  
+ 5647  .text-primary {
+ 5648: 	color: #7b59d0;
+ 5649  }
+ 5650  
+ ....
+ 6451  */
+ 6452  .bg-primary {
+ 6453: 	background-color: #7b59d0;
+ 6454  }
+ 6455  
+ ....
+ 6467  
+ 6468  .bg-primary-gradient {
+ 6469: 	background-image: linear-gradient(to right, #5428a4, #7b59d0);
+ 6470  }
+ 6471  
+ ....
+ 6573  
+ 6574  .rights a:hover {
+ 6575: 	color: #7b59d0;
+ 6576  }
+ 6577  
+ ....
+ 7199  	height: 36px;
+ 7200  	margin: 0 auto;
+ 7201: 	border: 3px solid #7b59d0;
+ 7202  	border-radius: 50%;
+ 7203  	border-left-color: transparent;
+ ....
+ 7252  	width: 100%;
+ 7253  	height: 100%;
+ 7254: 	background: #7b59d0;
+ 7255  	transition: .25s;
+ 7256  	-webkit-transform: scale(1);
+ ....
+ 7538  
+ 7539  .rd-navbar-search .rd-search-form-submit:hover {
+ 7540: 	color: #7b59d0;
+ 7541  }
+ 7542  
+ ....
+ 7598  
+ 7599  .rd-navbar-info a:hover {
+ 7600: 	color: #7b59d0;
+ 7601  }
+ 7602  
+ ....
+ 7613  
+ 7614  .rd-navbar-static .rd-nav-item.focus .rd-nav-link, .rd-navbar-static .rd-nav-item.opened .rd-nav-link {
+ 7615: 	color: #7b59d0;
+ 7616  	background: transparent;
+ 7617  }
+ 7618  
+ 7619  .rd-navbar-static .rd-nav-item.focus > .rd-navbar-submenu-toggle, .rd-navbar-static .rd-nav-item.opened > .rd-navbar-submenu-toggle {
+ 7620: 	color: #7b59d0;
+ 7621  }
+ 7622  
+ 7623  .rd-navbar-static .rd-nav-item.active .rd-nav-link {
+ 7624: 	color: #7b59d0;
+ 7625  	background: transparent;
+ 7626  }
+ 7627  
+ 7628  .rd-navbar-static .rd-nav-item.active > .rd-navbar-submenu-toggle {
+ 7629: 	color: #7b59d0;
+ 7630  }
+ 7631  
+ ....
+ 7653  
+ 7654  .rd-navbar-static .rd-nav-item > .rd-navbar-submenu-toggle:hover {
+ 7655: 	color: #7b59d0;
+ 7656  }
+ 7657  
+ ....
+ 7674  
+ 7675  .rd-navbar-static .rd-nav-link:hover {
+ 7676: 	color: #7b59d0;
+ 7677  }
+ 7678  
+ ....
+ 7726  
+ 7727  .rd-navbar-static .rd-dropdown-item.focus .rd-dropdown-link, .rd-navbar-static .rd-dropdown-item.opened .rd-dropdown-link {
+ 7728: 	color: #7b59d0;
+ 7729  }
+ 7730  
+ ....
+ 7738  
+ 7739  .rd-navbar-static .rd-dropdown-link:hover {
+ 7740: 	color: #7b59d0;
+ 7741  }
+ 7742  
+ ....
+ 7755  .rd-navbar-static .rd-megamenu-list li > a:focus,
+ 7756  .rd-navbar-static .rd-megamenu-list li > a:active {
+ 7757: 	color: #7b59d0;
+ 7758  }
+ 7759  
+ ....
+ 7842  
+ 7843  .rd-navbar-static .rd-megamenu-list-link:hover {
+ 7844: 	color: #7b59d0;
+ 7845  	background: transparent;
+ 7846  }
+ ....
+ 7948  
+ 7949  .rd-navbar-static .rd-navbar-search-toggle:hover {
+ 7950: 	color: #7b59d0;
+ 7951  }
+ 7952  
+ ....
+ 8056  
+ 8057  .rd-navbar-fixed .rd-navbar-nav-wrap::-webkit-scrollbar-track {
+ 8058: 	background: #7b59d0;
+ 8059  	border: none;
+ 8060  	border-radius: 0;
+ ....
+ 8389  .rd-navbar-fixed .rd-nav-item:hover .rd-nav-link, .rd-navbar-fixed .rd-nav-item.focus .rd-nav-link, .rd-navbar-fixed .rd-nav-item.active .rd-nav-link, .rd-navbar-fixed .rd-nav-item.opened .rd-nav-link {
+ 8390  	color: #ffffff;
+ 8391: 	background: #7b59d0;
+ 8392  }
+ 8393  
+ ....
+ 8414  .rd-navbar-fixed .rd-navbar-dropdown > li.opened > a {
+ 8415  	color: #ffffff;
+ 8416: 	background: #7b59d0;
+ 8417  }
+ 8418  
+ ....
+ 8430  
+ 8431  .rd-navbar-fixed .rd-navbar-megamenu .rd-megamenu-title a:hover {
+ 8432: 	color: #7b59d0;
+ 8433  }
+ 8434  
+ ....
+ 8442  
+ 8443  .rd-navbar-fixed .rd-navbar-search .rd-search-form-submit:hover {
+ 8444: 	color: #7b59d0;
+ 8445  }
+ 8446  
+ ....
+ 8450  
+ 8451  .rd-navbar-fixed .rd-navbar-search-toggle:hover {
+ 8452: 	color: #7b59d0;
+ 8453  }
+ 8454  
+ ....
+ 8565  
+ 8566  .rd-navbar-sidebar .rd-nav-item.active .rd-nav-link {
+ 8567: 	color: #7b59d0;
+ 8568  }
+ 8569  
+ ....
+ 8592  
+ 8593  .rd-navbar-sidebar .rd-nav-link:hover {
+ 8594: 	color: #7b59d0;
+ 8595  }
+ 8596  
+ ....
+ 8657  .rd-navbar-sidebar .rd-nav-item > .rd-navbar-submenu-toggle:hover,
+ 8658  .rd-navbar-sidebar .rd-nav-item .rd-navbar--has-dropdown > .rd-navbar-submenu-toggle:hover {
+ 8659: 	color: #7b59d0;
+ 8660  }
+ 8661  
+ ....
+ 8704  .rd-navbar-sidebar .rd-megamenu-list li > a:focus,
+ 8705  .rd-navbar-sidebar .rd-megamenu-list li > a:active {
+ 8706: 	color: #7b59d0;
+ 8707  }
+ 8708  
+ ....
+ 8798  
+ 8799  .rd-navbar-sidebar .rd-navbar-dropdown .rd-navbar--has-dropdown.opened > .rd-navbar-submenu-toggle {
+ 8800: 	color: #7b59d0;
+ 8801  }
+ 8802  
+ ....
+ 9226  
+ 9227  .rd-navbar-creative.rd-navbar-static .rd-navbar-search-toggle:hover {
+ 9228: 	color: #7b59d0;
+ 9229  }
+ 9230  
+ ....
+ 9306  
+ 9307  .rd-navbar-creative.rd-navbar-static .rd-navbar-search-toggle:hover > span {
+ 9308: 	background: #7b59d0;
+ 9309  }
+ 9310  
+ ....
+ 9508  .swiper-button-prev:hover,
+ 9509  .swiper-button-next:hover {
+ 9510: 	color: #7b59d0;
+ 9511  }
+ 9512  
+ ....
+ 9859  
+ 9860  .swiper-slider-2 .tel a:hover {
+ 9861: 	color: #7b59d0;
+ 9862  }
+ 9863  
+ ....
+ 9867  
+ 9868  .swiper-slider-2 .request a:hover, .swiper-slider-2 .request a:focus {
+ 9869: 	color: #7b59d0;
+ 9870  }
+ 9871  
+ ....
+ 10164  
+ 10165  .rd-search-results-live .search-link:hover {
+ 10166: 	color: #7b59d0;
+ 10167  }
+ 10168  
+ .....
+ 10183  
+ 10184  .rd-search-results-live .search-title a:hover {
+ 10185: 	color: #7b59d0;
+ 10186  }
+ 10187  
+ .....
+ 10204  	text-align: center;
+ 10205  	color: #ffffff;
+ 10206: 	background: #7b59d0;
+ 10207  }
+ 10208  
+ .....
+ 10292  	color: #ffffff;
+ 10293  	padding: 0 .25em;
+ 10294: 	background: #7b59d0;
+ 10295  }
+ 10296  
+ .....
+ 10397  
+ 10398  .rd-search-classic .rd-search-submit:hover {
+ 10399: 	color: #7b59d0;
+ 10400  }
+ 10401  
+ .....
+ 10427  
+ 10428  .rd-search.rd-search-inline .button-link:hover {
+ 10429: 	color: #7b59d0;
+ 10430  }
+ 10431  
+ .....
+ 10567  		display: block;
+ 10568  		padding: 3px 15px;
+ 10569: 		background: #7b59d0;
+ 10570  		color: #ffffff;
+ 10571  		border-radius: 40px;
+ .....
+ 10598  	}
+ 10599  	.isotope-filters-line .isotope-filters-list > li > a:hover, .isotope-filters-line .isotope-filters-list > li > a:focus, .isotope-filters-line .isotope-filters-list > li > a.active {
+ 10600: 		color: #7b59d0;
+ 10601: 		border-bottom: 1px solid #7b59d0;
+ 10602  	}
+ 10603  	.isotope-inline-filters .isotope-filters-list {
+ .....
+ 10638  	height: 2px;
+ 10639  	transition: .4s;
+ 10640: 	background: #7b59d0;
+ 10641  }
+ 10642  
+ 10643  .isotope-filters-modern .inline-list a:hover {
+ 10644: 	color: #7b59d0;
+ 10645  }
+ 10646  
+ .....
+ 10821  	.tabs-line .nav-link:hover,
+ 10822  	.tabs-line .nav-link.active {
+ 10823: 		color: #7b59d0;
+ 10824  		background: transparent;
+ 10825: 		border-color: #7b59d0;
+ 10826  	}
+ 10827  }
+ .....
+ 10869  		height: 1px;
+ 10870  		width: 0;
+ 10871: 		background: #7b59d0;
+ 10872  		transition: .22s ease;
+ 10873  	}
+ 10874  	.tabs-horizontal.tabs-line .nav-link.active,
+ 10875  	.tabs-horizontal.tabs-line .nav-link:hover {
+ 10876: 		color: #7b59d0;
+ 10877  	}
+ 10878  	.tabs-horizontal.tabs-line .nav-link.active::after {
+ .....
+ 10933  		height: 0;
+ 10934  		width: 1px;
+ 10935: 		background: #7b59d0;
+ 10936  		transition: .22s ease;
+ 10937  	}
+ 10938  	.tabs-vertical.tabs-line .nav-link.active,
+ 10939  	.tabs-vertical.tabs-line .nav-link:hover {
+ 10940: 		color: #7b59d0;
+ 10941  	}
+ 10942  	.tabs-vertical.tabs-line .nav-link.active::after {
+ .....
+ 11055  	width: 18px;
+ 11056  	height: 18px;
+ 11057: 	background: #7b59d0;
+ 11058  	border-radius: 2px;
+ 11059  	-webkit-transform: translateY(-50%);
+ .....
+ 11305  	width: 0;
+ 11306  	height: inherit;
+ 11307: 	background: #7b59d0;
+ 11308  	transition: .5s all ease-in-out;
+ 11309  }
+ .....
+ 12195  	bottom: 0;
+ 12196  	z-index: -1;
+ 12197: 	background: linear-gradient(to bottom, transparent, #7b59d0);
+ 12198  	opacity: 0;
+ 12199  	transition: inherit;
+ .....
+ 12259  
+ 12260  .owl-dot:hover, .owl-dot:focus {
+ 12261: 	background-color: #7b59d0;
+ 12262  }
+ 12263  
+ 12264  .owl-dot.active {
+ 12265: 	background-color: #7b59d0;
+ 12266  }
+ 12267  
+ .....
+ 12635  /* primary */
+ 12636  .lg-outer .lg-thumb-item.active, .lg-outer .lg-thumb-item:hover {
+ 12637: 	border-color: #7b59d0;
+ 12638  }
+ 12639  
+ .....
+ 12790  /* primary */
+ 12791  .lg-progress-bar .lg-progress {
+ 12792: 	background-color: #7b59d0;
+ 12793  	height: 5px;
+ 12794  	width: 0;
+ .....
+ 13550  	font-size: 13px;
+ 13551  	padding: 4px 16px;
+ 13552: 	background-color: #7b59d0;
+ 13553  	border: none !important;
+ 13554  }
+ .....
+ 13652  
+ 13653  .c3-shapes [class*="c3-shape-"] {
+ 13654: 	fill: #7b59d0 !important;
+ 13655  }
+ 13656  
+ .....
+ 14219  .layout-panel-content .mCSB_draggerContainer {
+ 14220  	padding: 2px;
+ 14221: 	background: #7b59d0;
+ 14222  }
+ 14223  
+ .....
+ 14403  	bottom: 0;
+ 14404  	height: 3px;
+ 14405: 	background: #7b59d0;
+ 14406  	transition: .34s;
+ 14407  	-webkit-transform: translate(0, 8px);
+ .....
+ 14415  
+ 14416  .layout-panel-isotope-wrap .isotope-filters-list a.active, .layout-panel-isotope-wrap .isotope-filters-list a:hover {
+ 14417: 	color: #7b59d0;
+ 14418  }
+ 14419  
+ .....
+ 14591  .thumbnail-small:hover {
+ 14592  	color: #ffffff;
+ 14593: 	background-color: #7b59d0;
+ 14594: 	border-color: #7b59d0;
+ 14595  }
+ 14596  
+ .....
+ 14696  	font-size: 0;
+ 14697  	cursor: pointer;
+ 14698: 	background: #7b59d0;
+ 14699  }
+ 14700  
+ .....
+ 14728  
+ 14729  .theme-switcher-group-item[data-theme-name='default'] {
+ 14730: 	background: #7b59d0;
+ 14731  }
+ 14732  
+
+143 matches across 3 files
+
+
+Searching 55 files for "a371f7"
+
+/Users/felixtang/Work/project/PocketBank/index.html:
+  409                  <!-- gradient-->
+  410                  <lineargradient id="linear-gradient-primary" x1="50%" y1="30%" x2="50%" y2="100%">
+  411:                   <stop offset="0%" stop-color="#a371f7"></stop>
+  412                    <stop offset="100%" stop-color="#fff"></stop>
+  413                  </lineargradient>
+  ...
+  417                  <!-- gradient-->
+  418                  <lineargradient id="linear-gradient-secondary" x1="50%" y1="30%" x2="50%" y2="100%">
+  419:                   <stop offset="0%" stop-color="#a371f7"></stop>
+  420                    <stop offset="100%" stop-color="#130c37"></stop>
+  421                  </lineargradient>
+
+/Users/felixtang/Work/project/PocketBank/single-service.html:
+  121                    <!-- gradient-->
+  122                    <lineargradient id="linear-gradient-primary" x1="50%" y1="30%" x2="50%" y2="100%">
+  123:                     <stop offset="0%" stop-color="#a371f7"></stop>
+  124                      <stop offset="100%" stop-color="#fff"></stop>
+  125                    </lineargradient>
+  ...
+  129                    <!-- gradient-->
+  130                    <lineargradient id="linear-gradient-secondary" x1="50%" y1="30%" x2="50%" y2="100%">
+  131:                     <stop offset="0%" stop-color="#a371f7"></stop>
+  132                      <stop offset="100%" stop-color="#130c37"></stop>
+  133                    </lineargradient>
+
+/Users/felixtang/Work/project/PocketBank/css/style.css:
+ 1478  .list-icon-gradient .icon-item {
+ 1479  	background: linear-gradient(90deg, transparent, transparent);
+ 1480: 	background: -webkit-linear-gradient(90deg, #a371f7, #f8be16);
+ 1481  	-webkit-background-clip: text;
+ 1482  	-webkit-text-fill-color: transparent;
+ ....
+ 1816  .button-primary {
+ 1817  	color: #ffffff;
+ 1818: 	background-color: #a371f7;
+ 1819  }
+ 1820  
+ ....
+ 1844  .footer-1 .button-primary {
+ 1845  	color: #ffffff;
+ 1846: 	background-color: #a371f7;
+ 1847  }
+ 1848  
+ ....
+ 2859  .box-comment .comment-link {
+ 2860  	display: inline-block;
+ 2861: 	color: #a371f7;
+ 2862  }
+ 2863  
+ ....
+ 3021  
+ 3022  .post-classic-2 .post-author a {
+ 3023: 	color: #a371f7;
+ 3024  }
+ 3025  
+ ....
+ 4226  	font-size: 16px;
+ 4227  	line-height: 1.5;
+ 4228: 	background: #a371f7;
+ 4229  	color: #ffffff;
+ 4230  	transition: all 0.3s ease-in-out;
+ ....
+ 4468  
+ 4469  .footer-2 a:hover {
+ 4470: 	color: #a371f7;
+ 4471  }
+ 4472  
+ ....
+ 4476  
+ 4477  .footer-2 .rights a:hover {
+ 4478: 	color: #a371f7;
+ 4479  }
+ 4480  
+ 4481  .footer-2 .contact-box .icon {
+ 4482: 	color: #a371f7;
+ 4483  }
+ 4484  
+ ....
+ 4549  
+ 4550  .footer-3 a:hover {
+ 4551: 	color: #a371f7;
+ 4552  }
+ 4553  
+ ....
+ 4561  
+ 4562  .footer-3 .rights a:hover {
+ 4563: 	color: #a371f7;
+ 4564  }
+ 4565  
+ ....
+ 5138  	line-height: 100px;
+ 5139  	color: #ffffff;
+ 5140: 	background: #a371f7;
+ 5141  	border-radius: 50%;
+ 5142  }
+ ....
+ 9297  
+ 9298  .rd-navbar-creative.rd-navbar-static .rd-navbar-search-toggle > span {
+ 9299: 	background: #a371f7;
+ 9300  	border-radius: 50%;
+ 9301  }
+ ....
+ 9863  
+ 9864  .swiper-slider-2 .request a {
+ 9865: 	color: #a371f7;
+ 9866  }
+ 9867  
+ ....
+ 11045  
+ 11046  .card-corporate .card-title a:hover {
+ 11047: 	color: #a371f7;
+ 11048  }
+ 11049  
+ .....
+ 12203  .owl-next:hover {
+ 12204  	color: #ffffff;
+ 12205: 	background: #a371f7;
+ 12206  }
+ 12207  
+
+/Users/felixtang/Work/project/PocketBank/js/script.js:
+ 1895  					},
+ 1896  					colors: {
+ 1897: 						data1: '#a371f7'
+ 1898  					},
+ 1899  				},
+
+21 matches across 4 files
+
+
+Searching 55 files for "a371f7"
+
+0 matches
+
+Searching 55 files for "a371f7"
+
+0 matches
+
+Searching 55 files for "#a371f7"
+
+0 matches

@@ -1894,7 +1894,7 @@
 						data1: 'area-spline'
 					},
 					colors: {
-						data1: '#a371f7'
+						data1: '#f08b00'
 					},
 				},
 				tooltip: {
